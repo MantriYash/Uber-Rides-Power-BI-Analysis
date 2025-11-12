@@ -1,4 +1,4 @@
-<img width="1912" height="764" alt="Screenshot 2025-11-12 200355" src="https://github.com/user-attachments/assets/8fe55ae7-8217-4ad9-87f3-d0bbf7880e8f" /># 🚖 Uber Data Analysis – Comprehensive Summary
+# 🚖 Uber Data Analysis – Comprehensive Summary
 
 ## 📊 Overview
 In today’s data-driven world, every action leaves behind a digital footprint — and Uber is no exception. Whether a trip is completed, canceled, or rescheduled, each ride generates valuable data that helps the company better understand its operations, drivers, and customers.
@@ -65,13 +65,13 @@ it’s a roadmap for **smarter, more profitable operations in the future.**
 
 Below are sample Power BI dashboard visuals used in this project:
 
-<img width="1918" height="763" alt="Screenshot 2025-11-12 200500" src="https://github.com/user-attachments/assets/493b304f-cb83-45c3-8a62-697377beaf8c" />
-<img width="1913" height="766" alt="Screenshot 2025-11-12 200444" src="https://github.com/user-attachments/assets/d081cc41-2b0a-4ba0-b1b0-e6fc3e91dd9d" />
-<img width="1912" height="764" alt="Screenshot 2025-11-12 200355" src="https://github.com/user-attachments/assets/e94d13bb-61ce-4d27-9ed3-4eccbdda957f" />
-<img width="1913" height="764" alt="Screenshot 2025-11-12 200338" src="https://github.com/user-attachments/assets/6631d102-8371-4c7f-990d-fc229fe8bbdb" />
-<img width="1907" height="769" alt="Screenshot 2025-11-12 200325" src="https://github.com/user-attachments/assets/d3e9b19e-ff42-4185-b4bf-5e244d22699f" />
-<img width="1917" height="765" alt="Screenshot 2025-11-12 200310" src="https://github.com/user-attachments/assets/965ec9f4-4fb3-4aa4-8838-dfd8320ed2d8" />
-<img width="1919" height="756" alt="Screenshot 2025-11-12 200230" src="https://github.com/user-attachments/assets/7c166ebb-7817-4b5e-b334-51b8c71ea7b8" />
+<img width="1919" height="756" alt="Screenshot 2025-11-12 200230" src="https://github.com/user-attachments/assets/63fccfa3-e667-4c84-b3a8-8d8904366644" />
+<img width="1917" height="765" alt="Screenshot 2025-11-12 200310" src="https://github.com/user-attachments/assets/7e9ca8c5-da77-44b7-aa20-67e5424a79c6" />
+<img width="1907" height="769" alt="Screenshot 2025-11-12 200325" src="https://github.com/user-attachments/assets/400e0849-8878-4f7e-bc18-18f39c4595fd" />
+<img width="1913" height="764" alt="Screenshot 2025-11-12 200338" src="https://github.com/user-attachments/assets/18a8edfe-8833-411f-badd-d17aa3c4d539" />
+<img width="1912" height="764" alt="Screenshot 2025-11-12 200355" src="https://github.com/user-attachments/assets/157dea14-ae9f-4e6e-b149-64e7c71ed13a" />
+<img width="1913" height="766" alt="Screenshot 2025-11-12 200444" src="https://github.com/user-attachments/assets/29fa6098-5b8d-4552-a886-753658c2d61a" />
+<img width="1918" height="763" alt="Screenshot 2025-11-12 200500" src="https://github.com/user-attachments/assets/185c92c6-87d8-4006-afca-bde52ea7373f" />
 
 
 
