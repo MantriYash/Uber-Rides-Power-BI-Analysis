@@ -61,6 +61,16 @@ Ultimately, this project proves that data is not just a record of the past —
 it’s a roadmap for **smarter, more profitable operations in the future.**
 
 ---
+## 🖼️ Sample Dashboards
+
+Below are sample Power BI dashboard visuals used in this project:
+
+| Dashboard | Preview |
+|------------|----------|
+| Ride Performance Overview | ![Ride Performance](assets/ride_performance_dashboard.png) |
+| Revenue Insights | ![Revenue Analysis](assets/revenue_dashboard.png) |
+| Demand & Hotspot Map | ![Demand Map](assets/demand_hotspot_dashboard.png) |
+| Customer Feedback Summary | ![Customer Feedback](assets/customer_feedback_dashboard.png) |
 
 ## 🧰 Tools & Technologies
 - **Microsoft Power BI** – Data visualization & dashboarding  
