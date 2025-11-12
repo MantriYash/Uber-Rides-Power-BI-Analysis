@@ -42,12 +42,6 @@ These insights help Uber (or similar ride-sharing companies) to:
 - Determined which cities or areas generate the highest trip frequency and income  
 - Supported resource planning by identifying where to focus driver availability  
 
-### ⏰ Peak Time and Seasonal Analysis
-- Identified demand peaks by hour, day, week, and season  
-- Helped plan marketing campaigns and promotions during high-demand periods  
-- Provided insights for efficient driver scheduling to reduce wait times and increase ride success rates  
-
----
 
 ## 💼 3. Business Impact
 The findings from this Power BI analysis enable Uber (or any ride-sharing business) to:
